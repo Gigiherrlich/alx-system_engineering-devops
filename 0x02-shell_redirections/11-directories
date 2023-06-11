@@ -1,2 +1,2 @@
 #!/bin/bash
-fin . -type d -not -name | wc -l
+fine . -type d -not -name | wc -l
